@@ -44,3 +44,4 @@ Final Notes:
 The task reinforces key data science competencies such as mathematical reasoning, analytical thinking, and Python programming. Interns are encouraged to document their code properly, follow a clean structure in their notebooks, and include visualizations or graphs wherever applicable to enhance understanding. Upon successful completion and submission of this task—along with the other three tasks—a certificate of completion will be awarded by CodTech.
 
 This task plays a crucial role in preparing interns for roles in data science, operations research, and analytics, where optimization is a core skill set.
+Output:![Image](https://github.com/user-attachments/assets/084d4f79-1004-4cd5-abcc-a6163c3137aa)
